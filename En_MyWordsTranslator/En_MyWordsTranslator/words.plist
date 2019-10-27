@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flight</key>
+	<string>penerbangan</string>
+	<key>hotel</key>
+	<string>hotel</string>
+	<key>arrival</key>
+	<string>ketibaan</string>
+	<key>departure</key>
+	<string>pelepasan</string>
+	<key>taxi</key>
+	<string>teksi</string>
+	<key>airplane</key>
+	<string>kapal terbang</string>
+	<key>car</key>
+	<string>kereta</string>
+	<key>van</key>
+	<string>van</string>
+	<key>bus</key>
+	<string>bas</string>
+	<key>train</key>
+	<string>kereta api</string>
+	<key>toilet</key>
+	<string>tandas</string>
+	<key>bathroom</key>
+	<string>bilik mandi</string>
+	<key>restaurant</key>
+	<string>restoran</string>
+	<key>coffee</key>
+	<string>kopi</string>
+	<key>tea</key>
+	<string>teh</string>
+	<key>menu</key>
+	<string>menu</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+
+/* Class = "UINavigationItem"; title = "Audios"; ObjectID = "3R3-fL-XFw"; */
+"3R3-fL-XFw.title" = "Audios";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "Hnb-6o-wYR"; */
+"Hnb-6o-wYR.normalTitle" = "Play";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "lgR-Ci-Sih"; */
+"lgR-Ci-Sih.normalTitle" = "Stop";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tjZ-c3-hH6"; */
+"tjZ-c3-hH6.text" = "Label";

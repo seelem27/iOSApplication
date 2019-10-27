@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Assignment_6
+
+  Created by See Lem on 29/08/2019.
+  Copyright © 2019 See Lem. All rights reserved.
+*/
+
+/* Audio Title: Title: Bells */
+"audio-title1" = "Tajuk: Loceng";
+
+/* Audio Title: Title: Guitar */
+"audio-title2" = "Tajuk: Gitar";
+
+/* Audio Title: Title: Keyboard */
+"audio-title3" = "Tajuk: Papan Kekunci";
+
+/* Audio Title: Title: Piano */
+"audio-title4" = "Tajuk: Piano";
